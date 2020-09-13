@@ -15,6 +15,3 @@ def divide_new(num1, num2):
     return num1 / num2
 
 
-def say_hello():
-    print('hello')
-
