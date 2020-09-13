@@ -14,7 +14,3 @@ def multiply(num1, num2):
 def divide_free(num1, num2):
     return num1 / num2
 
-
-def square(num):
-    return num * num
-
